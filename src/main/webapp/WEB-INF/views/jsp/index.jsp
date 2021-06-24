@@ -41,14 +41,14 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Mithun Technologies, ANdra PRadesh, india</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226, +91 8801286929</h3>
+			<h3>Contact +91 8801286929</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Mithun Technologies 2021</p>
 	</footer>
 </div>
 
